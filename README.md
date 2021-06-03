@@ -11,4 +11,5 @@
 <p align="center">
   <a href="https://discord.gg/Ny79fK57eDT"><img src="https://img.shields.io/badge/Wile%202010%20-1d202b.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://discord.com/users/774204008247721984"><img src="https://img.shields.io/badge/Laurence%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/827121055222988812"><img src="https://img.shields.io/badge/Letia%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
