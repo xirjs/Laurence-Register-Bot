@@ -1,0 +1,35 @@
+{
+    "erkekRolleri": ["Erkek Rol 1","Erkek Rol 2"],
+    "erkek1": "Erkek Rol 1",
+    "kız1": "Kız Rol 1",
+    "kızRolleri": ["Kız Rol 1", "Kız Rol 2"],
+    "kayıtcıRolü": "Register yetki rol id",
+    "kayıtsızRolü": "Unregister rol id",
+
+    "vipRolü": "Vip rol id",
+    "boosterRolü": "Booster rol id /yoksa booster rol aç yaz kolay",
+    "Suspecious": "Şüpheli hesap rol id",
+    "Family": "Taglı rol id",
+
+    "hgkanal": "Register kanal id",
+
+
+
+    "tag": "Tag",
+    "unTag": "Untag",
+
+    "yes": "Tik emoji id",
+    "no": "Çarpı emoji id",
+
+    "footer": "Laurence 🖤 Letia",
+    "durum": "Laurence 🖤 Letia",
+    "botVoice": "846282411914428475",
+
+    "kurallar": "Kurallar kanal id",
+    "guildID": "Sunucu id",
+
+    "token": "Değerli Kutsal Tokenin",
+    "prefix": "Prefix",
+    "sahip": "Kendi idn"
+
+}
